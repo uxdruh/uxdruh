@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=Hi+There!+;+I'm+Claire!;&color=ff8000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=👋+Hi+There!+;+😊+I'm+Claire!;&color=ff8000" />
 </h1>
 <h3 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=👩🏻‍💻+I'm+a+self-taught+developer.;&color=ff8000" />
@@ -23,7 +23,7 @@
 ---
 <div align=left>
     <h2>⚡ Stats ⚡</h2>
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&theme=Gradient" /><br>
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&theme=Gradient" />
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxdruh&theme=Gradient&layout=compact&langs_count=8" />
 
     
