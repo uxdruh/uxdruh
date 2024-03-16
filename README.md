@@ -24,9 +24,9 @@
 <div align=center>
     <h2>⚡ Stats ⚡</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&theme=radical" /><br>
-    <img src="[https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&theme=radical#gh-light-mode-only)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxdruh&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxdruh&langs_count=8" />
+    
 
     
-    [![Claire's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/uxdruh/github-readme-stats#gh-dark-mode-only)
-    [![Claire's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/uxdruh/github-readme-stats#gh-light-mode-only)
 </div>
