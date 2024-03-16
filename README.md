@@ -1,8 +1,8 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+;+I'm+Claire!;&color=ff8000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=Hi+There!+;+I'm+Claire!;&color=ff8000" />
 </h1>
 <h3 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=👩🏻‍💻+I'm+a+self-taught+developer.;&color=ff8000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=👩🏻‍💻+I'm+a+self-taught+developer.;&color=ff8000" />
 </h3>
 
 ---
