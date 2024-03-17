@@ -24,7 +24,7 @@
 <div align=left>
     <h2>⚡ Stats ⚡</h2>
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true" />
-    <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxdruh&layout=compact&langs_count=8" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxdruh&layout=compact&langs_count=10" />
 
     
 
