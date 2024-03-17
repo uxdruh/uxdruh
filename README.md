@@ -23,8 +23,8 @@
 ---
 <div align=left>
     <h2>⚡ Stats ⚡</h2>
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxdruh&layout=compact&langs_count=10" />
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&rank_icon=percentile" />
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxdruh&layout=compact&langs_count=10" />
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&rank_icon=percentile" />
 
 </div>
 <br><br>
