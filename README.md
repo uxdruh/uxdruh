@@ -23,8 +23,13 @@
 ---
 <div align=left>
     <h2>⚡ Stats ⚡</h2>
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true" />
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxdruh&layout=compact&langs_count=10" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=uxdruh&show_icons=true&rank_icon=percentile" />
+    <div style="display:none">
+        [API](https://github.com/anuraghazra/github-readme-stats)
+        rank_icon	Shows alternative rank icon (i.e. github, percentile or default).	enum	default
+    </div>
+    
 
     
 
