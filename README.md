@@ -8,8 +8,8 @@
 ---
 <div align="left">
     <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=c,cs,python,javascript,html,css,sqlite,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,bash,git,github,unity,arduino,godot,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,python,javascript,html,css,sqlite,react,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,unity,arduino,godot" /><br>
 </div>
 <br><br>
 
